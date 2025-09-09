@@ -348,8 +348,8 @@ MIT License
 
 ## 联系方式
 
-- 项目维护者: Your Name
-- 邮箱: your.email@example.com
+- 项目维护者: Bin
+- 邮箱: michael.b.tian@gmail.com
 
 ## 项目当前状态
 
